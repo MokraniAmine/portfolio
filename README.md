@@ -18,7 +18,7 @@ To run this project locally:
 bash
 Copier
 Modifier
-git clone https://github.com/MokraniAmine/portfolio.git
+git clone https://MokraniAmine.github.io/portfolio/
 cd portfolio
 npm install
 npm run dev
