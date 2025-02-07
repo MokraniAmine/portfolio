@@ -12,15 +12,5 @@ This is my personal portfolio website built with React and Vite. It showcases my
 🛠️ Tech Stack
 Frontend: React, Vite, Tailwind CSS
 Deployment: GitHub Pages
-🚀 Getting Started
-To run this project locally:
-
-bash
-Copier
-Modifier
-git clone https://MokraniAmine.github.io/portfolio/
-cd portfolio
-npm install
-npm run dev
 📬 Contact
 If you have any questions or feedback, feel free to reach out!
